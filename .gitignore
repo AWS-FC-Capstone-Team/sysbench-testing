@@ -1,2 +1,3 @@
 bareMetalOutputs/*
-microVMOutputs/*
+microVM4vCPUOutputs/*
+microVM30vCPUOutputs/*

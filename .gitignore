@@ -1,4 +1,4 @@
-test_outputs/bareMetalOutputs/*
-test_outputs/containerOutputs/*
-test_outputs/microVM4vCPUOutputs/*
-test_outputs/microVM30vCPUOutputs/*
+#test_outputs/thread_test/bareMetalOutputs/*
+#test_outputs/thread_test/containerOutputs/*
+#test_outputs/thread_test/microVM4vCPUOutputs/*
+#test_outputs/thread_test/microVM30vCPUOutputs/*
